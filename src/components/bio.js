@@ -54,13 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Troubled by the many projects that have never been started, I decided to create this blog to document
+        Hi, my name is <a href={`https://twitter.com/${social.twitter}`}> Nathan</a>. Troubled by the many projects that have never been started, I decided to create this blog to document
         the journey for completing projects, from apps, books, to finishing up a tv game.
         {` `}
         You can follow my journey by subscribing to my mailing list and receive the latest blog post.
-        {/* <a href={`https://twitter.com/${social.twitter}`}>
-         Twitter
-        </a> */}
       </p>
     </div>
   )
