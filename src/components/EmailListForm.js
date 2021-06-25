@@ -28,7 +28,7 @@ const EmailListForm = () => {
 
   return (
     <form onSubmit={handleSubmit} className="EmailListForm">
-      <h2>Subscribe to my email list!</h2>
+      <h2>Get notified about new projects</h2>
       <div className="Wrapper">
         <input
           placeholder="Email address"
