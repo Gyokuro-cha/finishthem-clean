@@ -79,7 +79,7 @@ It is not perfect, but over time it gets better.  If you are interested checking
 
 
 
-Hope you liked the post, if you have questions or comments shoot me a message at <project.converging.point+mrnofap@gmail.com>
+Hope you liked the post, if you have questions or comments shoot me a message at <project.converging.point+finishthem@gmail.com>
  
 
 
